@@ -8,7 +8,7 @@ function CWE_129(x) { // ARRAY_INDEX_NEGATIVE
     }
 }
 
-function CWE_398bvt() { // IDENTICAL_BRANCHES
+function CWE_398bvt2() { // IDENTICAL_BRANCHES
     if (x >= 0) {
         y = x;
     } else {
