@@ -1,5 +1,9 @@
 // This will show examples related with the Common Weakness Enumeration (CWE).
-// This comment is added to test webhook changes *
+<<<<<<< HEAD
+// This comment is added to test webhook changes
+=======
+// This comment is added to test webhook changes
+>>>>>>> 0f80808c899a8a48d1a31c7219021c75b19cfbd2
 
 function CWE_129(x) { // ARRAY_INDEX_NEGATIVE
     var arr = [1, 2, 3];
