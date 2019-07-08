@@ -29,7 +29,7 @@ function CWE_398() { // IDENTICAL_BRANCHES
     }
 }
 
-function CWE_476() { // NULL_POINTER
+function CWE_476() { // NULL_POINTE R
     var obj;
     var y = obj.x;
     console.log(y);
