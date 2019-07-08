@@ -5,7 +5,7 @@
 // This comment is added to test webhook changes
 >>>>>>> 0f80808c899a8a48d1a31c7219021c75b19cfbd2
 
-function CWE_129(x) { // ARRAY_INDEX_NEGATIVE
+function CWE_129(x) { // ARRAY_INDEX_NEGATIVE 2
     var arr = [1, 2, 3];
     if (x <= 0) {
         arr[x] = 3;
